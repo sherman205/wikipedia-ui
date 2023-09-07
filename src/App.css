@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.feed-header {
+  font-weight: 800;
+  font-size: 2rem;
+  padding: 1rem 0;
+}
+
+.article-item {
+  display: flex;
+  gap: 1rem;
+}
